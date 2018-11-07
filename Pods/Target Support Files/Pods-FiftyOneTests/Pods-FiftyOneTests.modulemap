@@ -1,0 +1,6 @@
+framework module Pods_FiftyOneTests {
+  umbrella header "Pods-FiftyOneTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
